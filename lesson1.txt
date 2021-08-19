@@ -1,0 +1,6 @@
+first change to the file
+making some more changes
+and some changes here to cause conflict
+making changes here for revrting from staging
+ADDING EXTRA HERE
+and now testing it
